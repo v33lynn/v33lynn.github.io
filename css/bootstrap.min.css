@@ -94,9 +94,9 @@ div.container{
 
 /*end of header*/
 
-/*------------Sketches------------------*/
+/*------------Fujifilm Photography----------------*/
 
-/*#images img {
+#images img {
     position: absolute;
     top: 0;
     left: -400px;
@@ -107,7 +107,7 @@ div.container{
     -o-transition: all linear 500ms;
     -moz-transition: all linear 500ms;
     -webkit-transition: all linear 500ms;
-    }*/
+    }
 
     img{
     	max-width:100%;
