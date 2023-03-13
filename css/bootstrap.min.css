@@ -119,10 +119,14 @@ li a:hover:not(.active) {
 .active {
 	background-color: #B22222;
 	}
-	
+
 /*end of header*/
 
 /*------------Fujifilm Photography----------------*/
+
+carousel-inner.item {
+	border-radius: 10px; max-width: 40%;
+}
 
 #images img {
     position: absolute;
